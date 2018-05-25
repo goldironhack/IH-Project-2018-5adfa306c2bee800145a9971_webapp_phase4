@@ -1,9 +1,13 @@
-body {
-    color: #444;
-    font-family: Arial, sans-serif;
+#map {
+        height: 400px;
+        width: 400px;
+       }
+body
+{
+  background-color: rgba(131, 88, 88, 0.75);
 }
-
-.container {
-    width: 100%;
-    max-width: 960px;
-}
+ /*font-family: 'Kanit', sans-serif;
+font-family: 'Righteous', cursive;
+font-family: 'Monoton', cursive;
+font-family: 'Audiowide', cursive;
+font-family: 'Montserrat Subrayada', sans-serif;*/
